@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1350" width="900" height="1350" role="img" aria-label="괴수 8호 2기 커버 이미지">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070b12"/><stop offset=".55" stop-color="#0d1522"/>
+    <stop offset="1" stop-color="#05080d"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ff3b5c"/><stop offset="1" stop-color="#ff9f43"/>
+  </linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#05080d" stop-opacity="0"/>
+    <stop offset=".45" stop-color="#05080d" stop-opacity=".72"/>
+    <stop offset="1" stop-color="#05080d" stop-opacity=".97"/>
+  </linearGradient>
+  <radialGradient id="glowA" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#ff3b5c" stop-opacity=".70"/>
+    <stop offset="1" stop-color="#ff3b5c" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowB" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#ff9f43" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#ff9f43" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+    <circle cx="1.4" cy="1.4" r="1.4" fill="#ffffff" fill-opacity=".06"/>
+  </pattern>
+</defs>
+<rect width="900" height="1350" fill="url(#bg)"/>
+<rect width="900" height="1350" fill="url(#dots)"/>
+<ellipse cx="742" cy="250" rx="560" ry="470" fill="url(#glowA)"/>
+<ellipse cx="150" cy="880" rx="520" ry="430" fill="url(#glowB)" opacity=".55"/>
+<path d="M-120 980 L360 40 L520 40 L40 980 Z" fill="#ff3b5c" opacity=".10"/>
+<path d="M210 1350 L760 320 L850 320 L300 1350 Z" fill="#ff9f43" opacity=".08"/>
+<rect x="0" y="560" width="900" height="790" fill="url(#fade)"/>
+<g transform="translate(450 470)">
+<circle r="262" fill="none" stroke="#ff3b5c" stroke-opacity=".30" stroke-width="2"/>
+<circle r="206" fill="none" stroke="#ffffff" stroke-opacity=".10" stroke-width="1.5"/>
+<rect x="-186" y="-186" width="372" height="372" fill="none" stroke="#ff9f43" stroke-opacity=".22" stroke-width="2" transform="rotate(45)"/>
+<circle r="132" fill="url(#accent)" opacity=".16"/>
+<path d="M-250 118 L250 -118" stroke="#ff3b5c" stroke-opacity=".45" stroke-width="3"/>
+<path d="M-198 186 L198 -186" stroke="#ffffff" stroke-opacity=".16" stroke-width="1.5"/>
+<circle cx="0" cy="-262" r="6" fill="#ffffff" fill-opacity=".55"/>
+<circle cx="262" cy="0" r="6" fill="#ffffff" fill-opacity=".35"/>
+</g>
+<rect x="26" y="26" width="848" height="1298" rx="18" fill="none" stroke="#ffffff" stroke-opacity=".09" stroke-width="1.5"/>
+<text x="64" y="92" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="19" letter-spacing="5" fill="#e9eff7" fill-opacity=".82">HUTACULTER</text>
+<text x="64" y="120" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="12.5" letter-spacing="3.4" fill="#ff9f43" fill-opacity=".95">ANIME CATALOG</text>
+<rect x="690" y="80" width="146" height="42" rx="21" fill="#ffffff" fill-opacity=".08" stroke="#ff3b5c" stroke-opacity=".45"/>
+<text x="763" y="108" text-anchor="middle" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="19" fill="#eef4ff">2025 · 여름</text>
+<text x="64" y="775" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="24" fill="#c6d3e2" fill-opacity=".72">괴수가 된 카프카가 방위대에서 괴수와 맞서는 액션.</text>
+<rect x="38" y="1046" width="8" height="77" rx="4" fill="url(#accent)"/>
+<text x="64" y="1060" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="20" letter-spacing="1.2" fill="#ff9f43" fill-opacity=".92">Production I.G</text>
+<text x="64" y="1118" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="84" font-weight="800" fill="#ffffff" letter-spacing="-1.2">괴수 8호 2기</text>
+<text x="64" y="1164" font-family="'Yu Gothic','Hiragino Kaku Gothic ProN','Meiryo','Noto Sans CJK JP',sans-serif" font-size="26" fill="#9fb0c5">怪獣8号 第2期</text>
+<rect x="64" y="1208" width="70" height="38" rx="19" fill="#ff3b5c" fill-opacity=".14" stroke="#ff3b5c" stroke-opacity=".45"/>
+<text x="99" y="1234" text-anchor="middle" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="18" fill="#e7eefb">액션</text>
+<rect x="144" y="1208" width="57" height="38" rx="19" fill="#ff3b5c" fill-opacity=".14" stroke="#ff3b5c" stroke-opacity=".45"/>
+<text x="173" y="1234" text-anchor="middle" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="18" fill="#e7eefb">SF</text>
+<rect x="211" y="1208" width="72" height="38" rx="19" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".22"/>
+<text x="247" y="1234" text-anchor="middle" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="18" fill="#cbd5e1">12화</text>
+<line x1="64" y1="1266" x2="836" y2="1266" stroke="#ffffff" stroke-opacity=".12"/>
+<text x="64" y="1300" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="21" font-weight="800" fill="#e9eff7">huta<tspan fill="#ff3b5c">Culter</tspan></text>
+<text x="64" y="1322" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="12.5" letter-spacing="2.2" fill="#64748b">ANIME · REVIEW · GOODS</text>
+<text x="836" y="1300" text-anchor="end" font-family="'Pretendard','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',system-ui,sans-serif" font-size="16" fill="#64748b">2025</text>
+</svg>
